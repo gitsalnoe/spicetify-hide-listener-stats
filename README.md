@@ -20,6 +20,6 @@ A Spicetify extension that removes listening statistics from Spotify for a clean
 4. Run `spicetify apply`
 
 ## Credits
-Made by [YourGitHubUsername](https://github.com/YourGitHubUsername)
+Made by [gitsalnoe](https://github.com/gitsalnoe)
 
 Built with [Spicetify](https://spicetify.app)
