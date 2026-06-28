@@ -28,6 +28,9 @@
       .main-entityHeader-metaData > .main-entityHeader-metaDataTextSubdued {
         display: none !important;
       }
+      .main-nowPlayingView-aboutArtistV2Listeners .encore-text-body-medium {
+        display: none !important;
+      }
     `;
     document.head.appendChild(style);
   }
