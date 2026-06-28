@@ -1,5 +1,7 @@
 # Hide Listener Stats
 
+![Imgur Image](preview.png)
+
 Removes listening statistics from Spotify for a cleaner, distraction-free experience.
 
 ## What it hides
